@@ -1,0 +1,10 @@
+C:\Users\Mateus\Documents\Projetos C#\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Mateus\Documents\Projetos C#\calculadora\bin\Debug\calculadora.exe
+C:\Users\Mateus\Documents\Projetos C#\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Mateus\Documents\Projetos C#\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Mateus\Documents\Projetos C#\calculadora\obj\Debug\calculadora.frmCalculadora.resources
+C:\Users\Mateus\Documents\Projetos C#\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Mateus\Documents\Projetos C#\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Mateus\Documents\Projetos C#\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\Projetos C#\calculadora\obj\Debug\calculadora.exe
+C:\Users\Mateus\Documents\Projetos C#\calculadora\obj\Debug\calculadora.pdb
